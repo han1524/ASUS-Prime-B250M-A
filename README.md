@@ -5,9 +5,9 @@
 |------------|-------------------------------|
 | CPU | i5 6400(sky lake) |
 | GPU | Intel HD Garphics 530 |
-| RAM | 12GB |
-| Audio | Realtek ALC256 |
-| WIFI／Bluetooth | Intel Wireless AC 9461 - Wi-Fi 5(802.11ac) |
+| RAM | 16GB |
+| Audio | Realtek ALC887 |
+| Internet | Realtek RTL8111
 | BIOS Version | 307 |
 
 ## 📀System
