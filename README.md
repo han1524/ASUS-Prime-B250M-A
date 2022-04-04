@@ -6,8 +6,8 @@
 | CPU | i5 6400(skylake) |
 | GPU | Intel HD Garphics 530 |
 | RAM | 16GB |
-| Audio | Realtek ALC887 |
-| Internet | Realtek RTL8111
+| Audio | Realtek ALC887（id=52） |
+| Internet | Realtek RTL8111H |
 | BIOS Version | 1205 |
 
 ## 📀System
