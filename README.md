@@ -8,7 +8,7 @@
 | RAM | 16GB |
 | Audio | Realtek ALC887 |
 | Internet | Realtek RTL8111
-| BIOS Version | 307 |
+| BIOS Version | 1205 |
 
 ## 📀System
 OS：MacOS Monterey
