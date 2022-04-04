@@ -1,1 +1,70 @@
-# ASUS-Prime-B250M-A
+# ASUS-Laptop-X509JP-icelake-Hackintosh
+
+## 🖥️Device
+| Model | ASUS Prilme B250M-A |
+|------------|-------------------------------|
+| CPU | i5 6400(sky lake) |
+| GPU | Intel HD Garphics 530 |
+| RAM | 12GB |
+| Audio | Realtek ALC256 |
+| WIFI／Bluetooth | Intel Wireless AC 9461 - Wi-Fi 5(802.11ac) |
+| BIOS Version | 307 |
+
+## 📀System
+OS：MacOS Monterey
+
+SMBIOS：iMac17,1
+
+OC：0.7.9 and higher
+
+![alt text](ASUS-Prime B250M-A.jpg)
+
+## 🛠️Setting BIOS
+Advanced > Intel AES-NI：Disable
+
+Advanced > SATA Configuration > SATA Mode Selection：AHCI
+
+Boot > Fast Boot：Disable
+
+Security > Secure Boot > Secure Boot Control：Disable
+
+- CFG Lock：Disable,You need to use ControlMsrE2.efi or CFGLock.efi
+
+                <key>Tools</key>
+                <array>
+                        <dict>
+                                <key>Arguments</key>
+                                <string>unlock</string>
+                                <key>Auxiliary</key>
+                                <true/>
+                                <key>Comment</key>
+                                <string></string>
+                                <key>Enabled</key>
+                                <true/>
+                                <key>Name</key>
+                                <string>ControlMsrE2</string>
+                                <key>Path</key>
+                                <string>ControlMsrE2.efi</string>
+                                <key>RealPath</key>
+                                <false/>
+                                <key>TextMode</key>
+                                <false/>
+                        </dict>
+                </array>
+## 💡Device status
+### Works：
+- [x] Graphics
+- [x] USB
+- [x] Webcam
+- [x] Brightness controls
+- [x] Battery percentage
+- [x] Sleep
+- [x] TouchPad
+- [x] WiFi
+- [x] Speakers
+- [x] Microphone
+- [x] Bluetooth
+### No Works：
+- [x] HDMI Output
+### Warning!：
+Do not restart after entering the Windows dual system, must shut down! Restart to MacOS speakers will not work !
