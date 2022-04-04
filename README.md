@@ -20,7 +20,6 @@ OC：0.7.9 and higher
 ![alt text](ASUS-Prime-B250M-A.jpg)
 
 ## 🛠️Setting BIOS
-Advanced > Intel AES-NI：Disable
 
 Advanced > SATA Configuration > SATA Mode Selection：AHCI
 
