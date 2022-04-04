@@ -3,7 +3,7 @@
 ## 🖥️Device
 | Model | ASUS Prilme B250M-A |
 |------------|-------------------------------|
-| CPU | i5 6400(sky lake) |
+| CPU | i5 6400(skylake) |
 | GPU | Intel HD Garphics 530 |
 | RAM | 16GB |
 | Audio | Realtek ALC887 |
@@ -17,7 +17,7 @@ SMBIOS：iMac17,1
 
 OC：0.7.9 and higher
 
-![alt text](ASUS-Prime B250M-A.jpg)
+![alt text](ASUS-Prime-B250M-A.jpg)
 
 ## 🛠️Setting BIOS
 Advanced > Intel AES-NI：Disable
@@ -53,18 +53,7 @@ Security > Secure Boot > Secure Boot Control：Disable
                 </array>
 ## 💡Device status
 ### Works：
-- [x] Graphics
+- [x] Graphics HDMI
 - [x] USB
-- [x] Webcam
-- [x] Brightness controls
-- [x] Battery percentage
-- [x] Sleep
-- [x] TouchPad
-- [x] WiFi
-- [x] Speakers
-- [x] Microphone
 - [x] Bluetooth
-### No Works：
-- [x] HDMI Output
-### Warning!：
-Do not restart after entering the Windows dual system, must shut down! Restart to MacOS speakers will not work !
+- [x] Audio
