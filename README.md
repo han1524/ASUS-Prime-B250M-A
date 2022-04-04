@@ -1,4 +1,4 @@
-# ASUS-Laptop-X509JP-icelake-Hackintosh
+# ASUS-Prime-B250M-A-skylake-Hackintosh
 
 ## 🖥️Device
 | Model | ASUS Prilme B250M-A |
